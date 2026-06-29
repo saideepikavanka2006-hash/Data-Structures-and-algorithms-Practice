@@ -2,16 +2,13 @@
 
 Welcome to my **Data Structures and Algorithms (DSA)** repository!
 
-This repository contains my solutions to various DSA problems solved during my coding journey. The goal is to strengthen problem-solving skills, prepare for coding interviews, and build a strong foundation in algorithms and data structures.
+This repository contains my solutions to various DSA problems solved during my coding journey. The goal is to strengthen problem-solving skills, and build a strong foundation in algorithms and data structures.
 
 ---
 
-## 🚀 Languages Used
+## 🚀 Language Used
 
 - Java ☕
-- Python 🐍 (if applicable)
-- C++ 💻 (if applicable)
-
 ---
 
 ## 📂 Topics Covered
@@ -29,16 +26,11 @@ This repository contains my solutions to various DSA problems solved during my c
 - Heaps
 - Hashing
 - Graphs
-- Dynamic Programming
-- Greedy Algorithms
-- Backtracking
-- Bit Manipulation
-
 ---
 
-## 🎯 Goals
+ 🎯 Goals
 
-- Solve 200+ DSA problems
+- Solve 100+ DSA problems
 - Improve coding efficiency
 - Prepare for technical interviews
 - Strengthen problem-solving skills
@@ -61,11 +53,9 @@ Data-Structures-and-Algorithms/
 │── Graphs/
 │── DynamicProgramming/
 │── README.md
-```
 
----
 
-## 💡 Problem Sources
+ 💡 Problem Sources
 
 - LeetCode
 - GeeksforGeeks
